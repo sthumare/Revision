@@ -1,3 +1,4 @@
+//Sushant Added these notes on 08th Nov 2021 at 01:05 am
 import java.util.Scanner;
 
  public class calculator
